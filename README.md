@@ -6,7 +6,7 @@ Innanzitutto, bisogna scaricare l'applicativo [Xampp](https://www.apachefriends.
 
 -[Apache](https://www.apache.org/),
 
--[MySql](https://nextjs.org/). 
+-[MySql](https://www.mysql.com/). 
 
 Dopo, bisogna attiviare i due moduli, aprire dal browser la dashboard di [phpMyAdmin](https://skillforge.com/how-to-create-a-database-using-phpmyadmin-xampp/), 
 andare nella sezione crea nuovo database, andare nel tab IMPORT selezionare il file [macelleria.sql](https://github.com/leominaudo/WebApp-Macelleria/blob/main/macelleria.sql), deselezionare il flag su opzioni specifiche al formato ed infine lanciare l'esecuzione.

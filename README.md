@@ -1,4 +1,4 @@
-<b>In Documenti è presente la relazione del progetto con le tecnologie utilizzate e asculi screenshot dell'e-commerce.</b>
+<b>In Documenti è presente la relazione del progetto con le tecnologie utilizzate e alculi screenshot dell'e-commerce.</b>
 
 
 Questo è un progetto [Next.js](https://nextjs.org/) avviato con [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages /crea-app successiva).
